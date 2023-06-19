@@ -85,7 +85,7 @@ hr {
 }
 
 .main {
-  display: none;
+  /* display: none; */
   position: block;
 }
 
